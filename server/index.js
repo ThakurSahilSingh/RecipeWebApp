@@ -9,7 +9,7 @@ const router = express.Router();
 
 app.use(express.json());
 app.use(cors());
-hi i am bhargav
+hello sahil it is very difficult to understand nodejs
 
 const config = require("./db/config");
 const Home = require("./controllers/controller");
